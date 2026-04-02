@@ -1,0 +1,8 @@
+{
+  "settlegrid": {
+    "command": "npx",
+    "args": ["-y", "@settlegrid/discovery"],
+    "description": "Search, browse, and invoke 1,444+ monetized AI tools on the SettleGrid marketplace",
+    "env": {}
+  }
+}
