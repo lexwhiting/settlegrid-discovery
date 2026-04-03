@@ -129,6 +129,23 @@ SettleGrid is the universal settlement layer for the AI economy — per-call bil
 - **Docs**: [settlegrid.ai/docs](https://settlegrid.ai/docs)
 - **Platform**: [settlegrid.ai/platform](https://settlegrid.ai/platform)
 
+## Privacy Policy
+
+SettleGrid Discovery is a read-only search tool that queries the SettleGrid public marketplace API.
+
+- **Data collection**: No personal data is collected, stored, or transmitted. The server sends search queries to `settlegrid.ai/api/v1/discover` and returns results.
+- **Local storage**: No data is written to the local filesystem.
+- **Third-party sharing**: No data is shared with third parties. Queries go only to SettleGrid's API.
+- **Retention**: No data is retained between sessions. The server is stateless.
+- **Authentication**: No credentials are required or processed for discovery tools.
+
+Full privacy policy: [settlegrid.ai/privacy](https://settlegrid.ai/privacy)
+
+## Support
+
+- **Issues**: [github.com/lexwhiting/settlegrid-discovery/issues](https://github.com/lexwhiting/settlegrid-discovery/issues)
+- **Email**: support@settlegrid.ai
+
 ## License
 
 MIT
